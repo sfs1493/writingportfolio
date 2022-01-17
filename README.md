@@ -49,7 +49,7 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
 <a href="https://opensource.guide/how-to-contribute/">Open Source - How to Contrbitue Documentation</a><br>
 <a href="https://www.freecodecamp.org/news/technical-writing-for-beginners/">freeCodeCamp - Technical Writing for Beginners</a><br>
 <a href="https://www.linkedin.com/learning/technical-writing-quick-start-guides">LinkedIn Learning - Technical Writing Quickstart Guides</a><br>
-<a href="https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/">Reddit - A list of Open Source Projects with Volunteer Opportunities></a></ul><br>
+<a href="https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/">Reddit - A list of Open Source Projects with Volunteer Opportunities></a></ul>
 </details>
 <details closed>
 <summary>Coding and Computer Science Education</summary>
