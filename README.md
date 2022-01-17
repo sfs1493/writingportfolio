@@ -1,5 +1,5 @@
 # writingportfolio
-A brief portfolio of my research, technical writing, and process content samples. I have written, co-authored, and managed diverse knowledge base websites or intranets across various positions for over ten years. My experience has diversified across process documentation, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training. 
+I have written, co-authored, and managed diverse knowledge base websites or intranets across various positions for over ten years. My experience has diversified across process documentation, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training. 
 
 <b>Research Paper Samples</b><br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety</a><br>
