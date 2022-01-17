@@ -8,7 +8,7 @@ I have written, co-authored, and managed diverse knowledge base websites or intr
 <br>
 <b>Technical Writing Samples</b><br>
 <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
-For any additional sample requests or customized writing challenges to complete, you can feel free to contact me or connect with me on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>. <br>
+For additional sample requests or customized writing challenges to complete, feel free to contact me or connect with me on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>. <br>
 <br>
 <b>Learn Guides for Digital Signage</b><br>
 <a href="https://screencloud.com/learn">Please click here to view instructional guides.</a><br>
