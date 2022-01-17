@@ -6,8 +6,8 @@
 <p align="center">I am passinate for developing technology and involving myself in new educational exeperiences. I have led or supported the development and management of diverse knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght across process documentation, managing financial data, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and technical training.<br>
 <p>For additional sample requests or customized writing challenges to complete, feel free to contact me or connect on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>.</p>
 <b>Education :mortar_board:</b><br>
-  <i>Master of Arts (M.A.) Higher Education Administration - Stony Brook University, 2019
-  <i>Bachelor of Arts (B.A.) Psychology (2016)</i> - Stony Brook University, 2016<br>
+  <i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019<br>
+  <i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016<br>
   <i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014<br>
   <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021<br>
   <br>
