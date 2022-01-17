@@ -41,7 +41,7 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
   
 </details>
 <details closed>
-<summary>Web Coding Education</summary>
+<summary>Coding and Computer Science Education</summary>
 <br>
   <a href="https://www.codeconquest.com/">Code Conquest</a><br>
   <a href="https://www.codecademy.com/">Code Academy</a><br>
@@ -54,6 +54,6 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
   <a href="https://ocw.mit.edu/index.htm">MIT Open CourseWare</a><br>
   <a href="https://www.w3schools.com/">W3Schools</a><br>
   <a href="https://dash.generalassemb.ly/">Dash</a><br>
-  <a href="https://github.com/coding-boot-camp">The Coding Bootcamp - GitHub</a>
-  <a href="https://github.com/ossu/computer-science">Open Source Society University for Computer Science - GitHub</a>
+  <a href="https://github.com/coding-boot-camp">The Coding Bootcamp - GitHub</a><br>
+  <a href="https://github.com/ossu/computer-science">Open Source Society University - GitHub</a><br>
 </details>
