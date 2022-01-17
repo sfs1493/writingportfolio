@@ -54,4 +54,6 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
   <a href="https://ocw.mit.edu/index.htm">MIT Open CourseWare</a><br>
   <a href="https://www.w3schools.com/">W3Schools</a><br>
   <a href="https://dash.generalassemb.ly/">Dash</a><br>
+  <a href="https://github.com/coding-boot-camp">The Coding Bootcamp - GitHub</a>
+  <a href="https://github.com/ossu/computer-science">Open Source Society University for Computer Science - GitHub</a>
 </details>
