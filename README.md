@@ -22,7 +22,6 @@ The following samples are for educational purposes only. These are not for resus
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety</a> - APA Format<br></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20University%20College%20London%20Emergency%20Plan%20Critique%20(Case%20Study).pdf">Crisis Management Case Study: University College London (UCL) Major Incident Plan Critique</a> - APA Format<br></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Toyota%20Automotive%20Business%20Case%20Study.pdf">Business Analysis Case Study: Toyota Automotive</a> - APA Format<br></li></ul>
-<br>
 <b>Writing Samples :writing_hand:</b><br>
 <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
 These samples include technical writing content published on knowledge base websites and are used for educational purposes with public audiences utilizing digital signage software.<br>
