@@ -38,17 +38,17 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
 <details closed>
 <summary>Technical Writing Education</summary>
 <br>
-  <a href="https://www.codeconquest.com/">Code Conquest</a>
-  <a href="https://www.codecademy.com/">Code Academy</a>
-  <a href="https://www.theodinproject.com/">The Odin Project</a>
-  <a href="https://www.codewars.com/">Codewars</a>
-  <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
-  <a href="https://codegym.cc/">CodeGym</a>
-  <a href="https://www.sololearn.com/home">Sololearn</a>
-  <a href="https://hackr.io/">Hackr.io</a>
-  <a href="https://ocw.mit.edu/index.htm">MIT Open CourseWare</a>
-  <a href="https://www.w3schools.com/">W3Schools</a>
-  <a href="https://dash.generalassemb.ly/">Dash</a>
+  <a href="https://www.codeconquest.com/">Code Conquest</a><br>
+  <a href="https://www.codecademy.com/">Code Academy</a><br>
+  <a href="https://www.theodinproject.com/">The Odin Project</a><br>
+  <a href="https://www.codewars.com/">Codewars</a><br>
+  <a href="https://www.freecodecamp.org/">freeCodeCamp</a><br>
+  <a href="https://codegym.cc/">CodeGym</a><br>
+  <a href="https://www.sololearn.com/home">Sololearn</a><br>
+  <a href="https://hackr.io/">Hackr.io</a><br>
+  <a href="https://ocw.mit.edu/index.htm">MIT Open CourseWare</a><br>
+  <a href="https://www.w3schools.com/">W3Schools</a><br>
+  <a href="https://dash.generalassemb.ly/">Dash</a><br>
   
 </details>
 <details closed>
