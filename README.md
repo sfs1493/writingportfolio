@@ -6,9 +6,9 @@ I have written, co-authored, and managed diverse knowledge base websites or intr
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes</a><br>
 <br>
 <b>Technical Writing Samples</b> - <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">click here to view my Google Drive folder.</a><br>
-For any additional sample requests or customized writing challenges to complete, please contact me.<br>
+For any additional sample requests or customized writing challenges to complete, please contact me. <br>
 <br>
-<b>App Guides for Digital Signage</b> - <a href="https://screencloud.com/learn">click here to view instructional guides.</a><br>
+<b>Learn Guides for Digital Signage</b> - <a href="https://screencloud.com/learn">click here to view instructional guides.</a><br>
 I have contributed to marketing guides, app integration documentation, and blogs for the ScreenCloud product. In addition, I authored an informational piece for ScreenCloud's website from a specialist perspective on <a href="https://screencloud.com/blog/the-ultimate-guide-to-digital-signage-playlists">operational management of digital playlists here.</a> Please note, I do not take copyright ownership for these product(s) or content and have contributed or created technical content for these public sources.<br>
 <br>
 <b>Web Coding Samples</b> - <a href="https://codepen.io/scibssss">click here to view my projects on Codepen (moving to GitHub Pages*).</a><br>
