@@ -18,7 +18,7 @@
   <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021 :hospital:<br>
   <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</i></a> - NYS Department of Health, 2017<br>
   <br>
-<h2>Technical Writing</h2>
+<h2>Technical Writing :writing_hand::microscope:</h2>
 <b>Research and Proposal Samples :microscope:</b><br>
 The following samples are for educational purposes only. These are not for resuse, infringement, or copyright.<br> 
 <br>
@@ -28,11 +28,11 @@ The following samples are for educational purposes only. These are not for resus
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety</a> - APA Format<br></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20University%20College%20London%20Emergency%20Plan%20Critique%20(Case%20Study).pdf">Crisis Management Case Study: University College London (UCL) Major Incident Plan Critique</a> - APA Format<br></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Toyota%20Automotive%20Business%20Case%20Study.pdf">Business Analysis Case Study: Toyota Automotive</a> - APA Format<br></li></ul>
-<b>Writing Samples :writing_hand:</b><br>
+<b>Writing Samples</b><br>
 <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
 These samples include technical writing content published on knowledge base websites and are used for educational purposes with public audiences utilizing digital signage software.<br>
 <br>
-<b>Learn Guides for Digital Signage :books:</b><br>
+<b>Learn Guides for Digital Signage</b><br>
 <a href="https://screencloud.com/learn">Please click here to view public instructional guides.</a><br>
 I have contributed to marketing guides, app integration documentation, and blogs for the ScreenCloud product. In addition, I authored an informational piece for ScreenCloud's website from a specialist perspective on <a href="https://screencloud.com/blog/the-ultimate-guide-to-digital-signage-playlists">operational management of digital playlists here.</a> Please note, I do not take copyright ownership of these product(s) and have contributed, managed, or created technical and educational guides for these public sources.<br>
 <br>
