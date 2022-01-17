@@ -7,7 +7,7 @@
 <p>For additional content or requests to complete a customized writing sample, feel free to contact me.</p>
 <b>Table of contents:</b><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#technical-writing"><Technical Writing</a><br>
-  
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/README.md#education-and-awards-mortar_board">Education and Awards</a><br>
 <b><h2>Education and Awards :mortar_board:</h2></b>
   <i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019<br>
   <i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016<br>
