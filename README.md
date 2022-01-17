@@ -21,7 +21,6 @@
 <h2>Technical Writing :microscope:</h2>
 <b>Research and Proposal Samples</b><br>
 The following samples are for educational purposes only. These are not for resuse, infringement, or copyright.<br> 
-<br>
   <ul class="contains-research-paper-samples">
   <li>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes</a><br></li>
