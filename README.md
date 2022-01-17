@@ -21,4 +21,4 @@ I have contributed to marketing guides, app integration documentation, and blogs
 <b>Web Coding Samples :computer:</b><br>
 <a href="https://codepen.io/scibssss">Please click here to view my projects on Codepen (moving to GitHub Pages*).</a><br>
 I have worked with HTML and CSS programming since 2003 and am currently becoming Responsive Web Design Certified as a self-paced student across web coding technology bootcamps specializing in Javascript, Pyton, and SQL curriculums. I enjoy learning to understand more about programming languages, best practices for clean code, and continuing to develop skills for educating or writing about code.<p>
-<p>A personal goal of mine is to continue participating in education and my career growth on understanding code to further progress my technical writing development and challenge myself to create content on increasingly complex coding or software concepts.</p>
+<p>I am pursuing continuing education and my career growth on understanding code to further progress my technical writing development and challenge myself to create content on increasingly complex coding or software concepts.</p>
