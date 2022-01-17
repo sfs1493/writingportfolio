@@ -8,10 +8,10 @@
 <br>
 <b>Technical Writing Samples</b><br>
 <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
-For additional sample requests or customized writing challenges to complete, feel free to contact me or connect with me on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>. <br>
+These samples include technical writing content published on knowledge base websites and are used for educational purposes with public audiences. For additional sample requests or customized writing challenges to complete, feel free to contact me or connect with me on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>. <br>
 <br>
 <b>Learn Guides for Digital Signage</b><br>
-<a href="https://screencloud.com/learn">Please click here to view instructional guides.</a><br>
+<a href="https://screencloud.com/learn">Please click here to view public instructional guides.</a><br>
 I have contributed to marketing guides, app integration documentation, and blogs for the ScreenCloud product. In addition, I authored an informational piece for ScreenCloud's website from a specialist perspective on <a href="https://screencloud.com/blog/the-ultimate-guide-to-digital-signage-playlists">operational management of digital playlists here.</a> Please note, I do not take copyright ownership for these product(s) or content and have contributed or created technical content for these public sources.<br>
 <br>
 <b>Web Coding Samples</b><br>
