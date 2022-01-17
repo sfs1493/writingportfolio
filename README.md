@@ -12,7 +12,7 @@
   <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021 :hospital:<br>
   <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</i></a> - NYS Department of Health, 2017<br>
   <br>
-<h2>Writing</h2>
+<h2>Technical Writing</h2>
 <b>Research and Proposal Samples :microscope:</b><br>
 <br>
 The following samples are for educational purposes only. These are not for resuse, infringement, or copyright.<br> 
@@ -20,7 +20,7 @@ The following samples are for educational purposes only. These are not for resus
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20University%20College%20London%20Emergency%20Plan%20Critique%20(Case%20Study).pdf">Case Study: University College London (UCL) Major Incident Plan Critique and Analysis</a> - APA (September 2017)<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes</a> - APA Format (May 2019)<br>
 <br>
-<b>Technical Writing Samples :writing_hand:</b><br>
+<b>Writing Samples :writing_hand:</b><br>
 <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
 These samples include technical writing content published on knowledge base websites and are used for educational purposes with public audiences utilizing digital signage software.<br>
 <br>
