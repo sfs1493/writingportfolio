@@ -2,8 +2,8 @@
 <text align="center">I have written, coordination, co-authored, and managed diverse knowledge base websites or intranets across various positions for over ten years. My experience has diversified across process documentation, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training.</text>
 
 <b>Research Samples and Awards</b> :microscope:<br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety</a><br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes - APA Format</a><br>
 <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll (2017)</a><br>
 <br>
 <b>Technical Writing Samples</b><br>
