@@ -12,7 +12,7 @@
   <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021<br>
   <br>
 <b>Research Samples and Public Health Awards :microscope:</b><br>
-These writing samples are for portfolio and educational use only. These are not intended to reuse, for infringement, copyright, or 
+The following writing samples are for portfolio and educational purposes only. These samples are not for reuse or copyright.<br> 
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a> (December 2015)<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes - APA Format</a> (May 2019)<br>
 <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll</a> (2017)<br>
