@@ -44,7 +44,7 @@ I have worked with HTML and CSS programming since 2003 and am currently becoming
 As an advocate for accessible and equal learning opportunities, I have compiled a list of technical writing resources as part of my portfolio. The resources available below are free and accessible to anyone with access to the open web who are interested in learning more about programming languages or improving on technical writing skills.<br>
 <br>
 <details closed>
-<summary>Technical Writing Education</summary>
+<summary>Technical Writing Education Links</summary>
 <a href="https://en.wikiversity.org/wiki/Technical_writing/Courses#An_Introduction_to_Technical_Writing">Wikiversity - An Introduction to Technical Writing</a><br>
 <a href="https://medium.com/technical-writing-is-easy">Medium - Technical Writing is Easy</a><br>
 <a href="https://opensource.guide/how-to-contribute/">Open Source - How to Contrbitue Documentation</a><br>
@@ -53,7 +53,7 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
 <a href="https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/">Reddit - A list of Open Source Projects with Volunteer Opportunities></a><br>
 </details>
 <details closed>
-<summary>Coding and Computer Science Education</summary>
+<summary>Coding and Computer Science Education Links</summary>
   <a href="https://www.codeconquest.com/">Code Conquest</a><br>
   <a href="https://www.codecademy.com/">Code Academy</a><br>
   <a href="https://www.theodinproject.com/">The Odin Project</a><br>
