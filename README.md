@@ -9,8 +9,8 @@
 <p align="center">I have written, coordination, co-authored, and managed knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has diversified across process documentation, financial data, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training.<br>
 <p>For additional sample requests or customized writing challenges to complete, feel free to contact me or connect on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>.</p>
 <b>Research Samples and Public Health Awards :microscope:</b><br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a><br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes - APA Format</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a> (December 2015)<br>
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes - APA Format</a> (May 2019)<br>
 <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll(2017)</a><br>
 <br>
 <b>Technical Writing Samples :writing_hand:</b><br>
