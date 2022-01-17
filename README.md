@@ -6,7 +6,7 @@
   <br>
   <i>M.A. Higher Education Administration (2019), B.A. Psychology (2016)</i> - Stony Brook University<br>
   <i>A.A. Liberal Arts and Sciences (2014)</i> - Suffolk County Community College<br>
-<p align="center">I have written, coordination, co-authored, and managed knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has diversified across process documentation, financial data, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training.<br>
+<p align="center">I am passinate for developing technology and involving myself in new educational exeperiences. I have written, coordinated, co-authored, and managed knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has diversified across process documentation, financial data, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training. I personally enjoy hiking, reading, my dogs, spending time with my family, mystery novels, word games, and traveling.<br>
 <p>For additional sample requests or customized writing challenges to complete, feel free to contact me or connect on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>.</p>
 <b>Research Samples and Public Health Awards :microscope:</b><br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a> (December 2015)<br>
