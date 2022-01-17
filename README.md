@@ -11,7 +11,7 @@
 <b>Research Samples and Public Health Awards :microscope:</b><br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a> (December 2015)<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes - APA Format</a> (May 2019)<br>
-<a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll(2017)</a><br>
+<a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll</a> (2017)<br>
 <br>
 <b>Technical Writing Samples :writing_hand:</b><br>
 <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
