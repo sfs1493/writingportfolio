@@ -1,9 +1,7 @@
 # writingportfolio
 <h2><p align="center">Hi, I'm Santino. :wave:</h2></p>
 <p align="center"><img alt="a portrait photo of Santino" src="https://media-exp1.licdn.com/dms/image/C4D03AQEWFPBuInmWtQ/profile-displayphoto-shrink_200_200/0/1609695744895?e=1648080000&v=beta&t=zGe3ZU6_qyPx1Pxrk0o4J1rm8v6XPlSnUoxeuMSC4S4"><br>
-  <b>Email:</b> <a href="mailto:santinoscibelli@gmail.com">santinoscibelli@gmail.com</a>
-
- :e-mail:<br>
+  <b>Email:</b> <a href="mailto:santinoscibelli@gmail.com">santinoscibelli@gmail.com</a>:e-mail:<br>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santinoscibelli/">in/santinoscibelli</a><br>
   <br>
   <i>M.A. Higher Education Administration (2019), B.A. Psychology (2016)</i> - Stony Brook University<br>
