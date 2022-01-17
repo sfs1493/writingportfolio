@@ -1,5 +1,5 @@
 # writingportfolio
-<text align="center">I have written, co-authored, and managed diverse knowledge base websites or intranets across various positions for over ten years. My experience has diversified across process documentation, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training.</text>
+<text align="center">I have written, coordination, co-authored, and managed diverse knowledge base websites or intranets across various positions for over ten years. My experience has diversified across process documentation, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training.</text>
 
 <b>Research Samples and Awards</b> :microscope:<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety</a><br>
