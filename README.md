@@ -39,11 +39,11 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
 <summary>Technical Writing Education</summary>
 <br>
 <a href="https://en.wikiversity.org/wiki/Technical_writing/Courses#An_Introduction_to_Technical_Writing">Wikiversity - An Introduction to Technical Writing</a><br>
-<a href="https://medium.com/technical-writing-is-easy">Medium - Technical Writing is Easy</a>
-<a href="https://opensource.guide/how-to-contribute/">Open Source - How to Contrbitue Documentation</a>
-<a href="https://www.freecodecamp.org/news/technical-writing-for-beginners/">freeCodeCamp - Technical Writing for Beginners</a>
-<a href="https://www.linkedin.com/learning/technical-writing-quick-start-guides">LinkedIn Learning - Technical Writing Quickstart Guides</a>
-<a href="https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/">Reddit - A list of Open Source Projects with Volunteer Opportunities></a>
+<a href="https://medium.com/technical-writing-is-easy">Medium - Technical Writing is Easy</a><br>
+<a href="https://opensource.guide/how-to-contribute/">Open Source - How to Contrbitue Documentation</a><br>
+<a href="https://www.freecodecamp.org/news/technical-writing-for-beginners/">freeCodeCamp - Technical Writing for Beginners</a><br>
+<a href="https://www.linkedin.com/learning/technical-writing-quick-start-guides">LinkedIn Learning - Technical Writing Quickstart Guides</a><br>
+<a href="https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/">Reddit - A list of Open Source Projects with Volunteer Opportunities></a><br>
 </details>
 <details closed>
 <summary>Coding and Computer Science Education</summary>
