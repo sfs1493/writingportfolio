@@ -5,6 +5,8 @@
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santinoscibelli/">in/santinoscibelli</a> :wave:<br>
 <p align="center">I am passionate for learning about diverse technologies and involving myself in new educational exeperiences. I have led or supported the development and management of knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght to extensive documentation, HTML/CSS coding, help center articles, styling guides, security practices, branding guidelines, resource education, and technical training.<br>
 <p>For additional content or requests to complete a customized writing sample, feel free to contact me.</p>
+<b>Table of contents:</b>
+<a href="
 <b><h2>Education and Awards :mortar_board:</h2></b>
   <i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019<br>
   <i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016<br>
