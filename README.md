@@ -1,7 +1,7 @@
 # writingportfolio
 I have written, co-authored, and managed diverse knowledge base websites or intranets across various positions for over ten years. My experience has diversified across process documentation, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training. 
 
-<b>Research Samples and Awards</b><br>:microscope:
+<b>Research Samples and Awards</b> :microscope:<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - Thesis Paper Sample</a><br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes - Thesis Paper Sample</a><br>
 <br>
