@@ -16,7 +16,7 @@
 The following samples are for educational purposes only. These are intended for only this portfolio and not to reuse or copyright.<br> 
 <br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety</a> - APA Format (December 2015)<br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20University%20College%20London%20Emergency%20Plan%20Critique%20(Case%20Study).pdf">Case Study: University College London (UCL) Major Incident Plan Critique and Analysis<br></a>- APA (September 2017)<br>
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20University%20College%20London%20Emergency%20Plan%20Critique%20(Case%20Study).pdf">Case Study: University College London (UCL) Major Incident Plan Critique and Analysis</a>- APA (September 2017)<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes</a> - APA Format (May 2019)<br>
 <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll</a> (2017)<br>
 <br>
