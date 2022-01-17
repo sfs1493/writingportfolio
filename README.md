@@ -43,12 +43,13 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
 <br>
 <details closed>
 <summary>Technical Writing Education</summary>
+    <ul class="technical-writing-education">
 <a href="https://en.wikiversity.org/wiki/Technical_writing/Courses#An_Introduction_to_Technical_Writing">Wikiversity - An Introduction to Technical Writing</a><br>
 <a href="https://medium.com/technical-writing-is-easy">Medium - Technical Writing is Easy</a><br>
 <a href="https://opensource.guide/how-to-contribute/">Open Source - How to Contrbitue Documentation</a><br>
 <a href="https://www.freecodecamp.org/news/technical-writing-for-beginners/">freeCodeCamp - Technical Writing for Beginners</a><br>
 <a href="https://www.linkedin.com/learning/technical-writing-quick-start-guides">LinkedIn Learning - Technical Writing Quickstart Guides</a><br>
-<a href="https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/">Reddit - A list of Open Source Projects with Volunteer Opportunities></a><br>
+<a href="https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/">Reddit - A list of Open Source Projects with Volunteer Opportunities></a></ul><br>
 </details>
 <details closed>
 <summary>Coding and Computer Science Education</summary>
@@ -69,5 +70,5 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
  <a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">Git and GitHub Learning Resources</a>
       <a href="https://www.python.org/about/gettingstarted/">Python for Beginners</a>
       <a href="https://graphql.org/learn/">Introduction to Graph QL</a>
-      <a href="https://www.w3schools.com/js/js_api_intro.asp">W3Schools - Intro to Web APIs</a>
+   <a href="https://www.w3schools.com/js/js_api_intro.asp">W3Schools - Intro to Web APIs</a></ul>
 </details>
