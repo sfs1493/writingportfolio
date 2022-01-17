@@ -10,10 +10,10 @@
   <i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016<br>
   <i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014<br>
   <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021 :hospital:<br>
+  <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll</a> (2017)<br>
   <br>
 <h2>Writing</h2>
-<b>Research Samples and Public Health Awards :microscope:</b><br>
-<a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll</a> (2017)<br>
+<b>Research and Proposal Samples :microscope:</b><br>
 <br>
 The following samples are for educational purposes only. These are not for resuse, infringement, or copyright.<br> 
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety</a> - APA Format (December 2015)<br>
