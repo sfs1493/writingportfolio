@@ -39,11 +39,11 @@ I have contributed to marketing guides, app integration documentation, and blogs
 <h2>Responsive Web Coding :computer:</h2>
 <a href="https://codepen.io/scibssss">Please click here to view my projects on Codepen.</a><br>
 I have worked with HTML and CSS programming since 2003 and am currently becoming Responsive Web Design Certified and am a student across web coding technology bootcamps specializing in Javascript, APIs, Python, and SQL curriculums. I enjoy learning to understand more about programming languages, best practices for clean code, and continuing to develop skills for educating or writing about code. I am pursuing a goal to build a small portfolio of coding projects across programming languages and continue my education on understanding code. I strive to continously improve my technical writing development and lead challenging writing projects on increasingly complex coding, research, or software related concepts.</p>
-<h2>Coding and Writing Resources</h2>
+<h2>Programming and Writing Resources :books:</h2>
 As an advocate for accessible and equal learning opportunities, I have compiled a list of technical writing resources as part of my portfolio. The resources available below are free and accessible to anyone with access to the open web who are interested in learning more about programming languages or improving on technical writing skills.<br>
 <br>
 <details closed>
-<summary>Technical Writing Education Links</summary>
+<summary>Technical Writing Education</summary>
 <a href="https://en.wikiversity.org/wiki/Technical_writing/Courses#An_Introduction_to_Technical_Writing">Wikiversity - An Introduction to Technical Writing</a><br>
 <a href="https://medium.com/technical-writing-is-easy">Medium - Technical Writing is Easy</a><br>
 <a href="https://opensource.guide/how-to-contribute/">Open Source - How to Contrbitue Documentation</a><br>
@@ -52,7 +52,7 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
 <a href="https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/">Reddit - A list of Open Source Projects with Volunteer Opportunities></a><br>
 </details>
 <details closed>
-<summary>Coding and Computer Science Education Links</summary>
+<summary>Coding and Computer Science Education</summary>
   <a href="https://www.codeconquest.com/">Code Conquest</a><br>
   <a href="https://www.codecademy.com/">Code Academy</a><br>
   <a href="https://www.theodinproject.com/">The Odin Project</a><br>
@@ -67,4 +67,7 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
   <a href="https://github.com/coding-boot-camp">The Coding Bootcamp - GitHub</a><br>
   <a href="https://github.com/ossu/computer-science">Open Source Society University - GitHub</a><br>
   <a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">Git and GitHub Learning Resources</a>
+  <a href="https://www.python.org/about/gettingstarted/">Python for Beginners</a>
+  <a href="https://graphql.org/learn/">Introduction to Graph QL</a>
+  <a href="https://www.w3schools.com/js/js_api_intro.asp">W3Schools - Intro to Web APIs</a>
 </details>
