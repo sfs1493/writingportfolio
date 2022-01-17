@@ -1,8 +1,8 @@
 # writingportfolio
 <h2><p align="center">Hi, I'm Santino. :wave:</h2></p>
 <p align="center"><img alt="a portrait photo of Santino" src="https://media-exp1.licdn.com/dms/image/C4D03AQEWFPBuInmWtQ/profile-displayphoto-shrink_200_200/0/1609695744895?e=1648080000&v=beta&t=zGe3ZU6_qyPx1Pxrk0o4J1rm8v6XPlSnUoxeuMSC4S4"><br>
-<p>:e-mail: - santinoscibelli@gmail.com<p>
-<p>
+<p>Email - santinoscibelli@gmail.com :e-mail:</p>
+<p>LinkedIn - <a href="https://www.linkedin.com/in/santinoscibelli/">in/santinoscibelli</a><p>
   <br>
   <i>M.A. Higher Education Administration (2019), B.A. Psychology (2016)</i> - Stony Brook University<br>
   <i>A.A. Liberal Arts and Sciences (2014)</i> - Suffolk County Community College<br>
