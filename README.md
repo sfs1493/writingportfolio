@@ -37,7 +37,6 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
 <br>
 <details closed>
 <summary>Technical Writing Education</summary>
-<br>
 <a href="https://en.wikiversity.org/wiki/Technical_writing/Courses#An_Introduction_to_Technical_Writing">Wikiversity - An Introduction to Technical Writing</a><br>
 <a href="https://medium.com/technical-writing-is-easy">Medium - Technical Writing is Easy</a><br>
 <a href="https://opensource.guide/how-to-contribute/">Open Source - How to Contrbitue Documentation</a><br>
@@ -47,7 +46,6 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
 </details>
 <details closed>
 <summary>Coding and Computer Science Education</summary>
-<br>
   <a href="https://www.codeconquest.com/">Code Conquest</a><br>
   <a href="https://www.codecademy.com/">Code Academy</a><br>
   <a href="https://www.theodinproject.com/">The Odin Project</a><br>
