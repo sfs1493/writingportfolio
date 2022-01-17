@@ -3,7 +3,7 @@
 <p align="center"><img alt="a portrait photo of Santino" src="https://media-exp1.licdn.com/dms/image/C4D03AQEWFPBuInmWtQ/profile-displayphoto-shrink_200_200/0/1609695744895?e=1648080000&v=beta&t=zGe3ZU6_qyPx1Pxrk0o4J1rm8v6XPlSnUoxeuMSC4S4"><br>
   <b>Email:</b> <a href="mailto:santinoscibelli@gmail.com">santinoscibelli@gmail.com</a> :e-mail:<br>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santinoscibelli/">in/santinoscibelli</a> :wave:<br>
-<p align="center">I am passionate for learning about diverse technologies and involving myself in new educational exeperiences. I have led or supported the development and management of knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght across process documentation, managing financial data, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and technical training.<br>
+<p align="center">I am passionate for learning about diverse technologies and involving myself in new educational exeperiences. I have led or supported the development and management of knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght to extensive documentation, HTML/CSS coding, help center articles, styling guides, security practices, branding guidelines, resource education, and technical training.<br>
 <p>For additional content or requests to complete a customized writing sample, feel free to contact me.</p>
 <b><h2>Education and Awards :mortar_board:</h2></b>
   <i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019<br>
