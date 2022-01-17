@@ -12,7 +12,7 @@
 <br>
 <b>Technical Writing Samples :writing_hand:</b><br>
 <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
-These samples include technical writing content published on knowledge base websites and are used for educational purposes with public audiences using digital signage.<br>
+These samples include technical writing content published on knowledge base websites and are used for educational purposes with public audiences utilizing digital signage.<br>
 <br>
 <b>Learn Guides for Digital Signage :books:</b><br>
 <a href="https://screencloud.com/learn">Please click here to view public instructional guides.</a><br>
