@@ -16,10 +16,10 @@
 <b>Research and Proposal Samples :microscope:</b><br>
 The following samples are for educational purposes only. These are not for resuse, infringement, or copyright.<br> 
 <br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes</a> - APA Format<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety</a> - APA Format<br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20University%20College%20London%20Emergency%20Plan%20Critique%20(Case%20Study).pdf">Case Study: University College London (UCL) Major Incident Plan Critique and Analysis</a><br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Toyota%20Automotive%20Business%20Case%20Study.pdf">Case Study: Toyota Automotive</a>
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20University%20College%20London%20Emergency%20Plan%20Critique%20(Case%20Study).pdf">Case Study: University College London (UCL) Major Incident Plan Critique and Analysis</a> - APA Format<br>
+<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Toyota%20Automotive%20Business%20Case%20Study.pdf">Case Study: Toyota Automotive</a> - APA Format
 <br>
 <b>Writing Samples :writing_hand:</b><br>
 <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
