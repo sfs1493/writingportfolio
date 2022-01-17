@@ -1,4 +1,5 @@
 # writingportfolio
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEWFPBuInmWtQ/profile-displayphoto-shrink_200_200/0/1609695744895?e=1648080000&v=beta&t=zGe3ZU6_qyPx1Pxrk0o4J1rm8v6XPlSnUoxeuMSC4S4">
 <p align="center">I have written, coordination, co-authored, and managed diverse knowledge base websites or intranets across various positions for over ten years. My experience has diversified across process documentation, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training.</p>
 
 <b>Research Samples and Awards</b> :microscope:<br>
