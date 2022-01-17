@@ -5,8 +5,9 @@
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santinoscibelli/">in/santinoscibelli</a> :wave:<br>
 <p align="center">I am passionate for learning about diverse technologies and involving myself in new educational exeperiences. I have led or supported the development and management of knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght to extensive documentation, HTML/CSS coding, help center articles, styling guides, security practices, branding guidelines, resource education, and technical training.<br>
 <p>For additional content or requests to complete a customized writing sample, feel free to contact me.</p>
-<b>Table of contents:</b>
-<a href="
+<b>Table of contents:</b><br>
+<a href="https://github.com/sfsexplorer/writingportfolio#technical-writing"><Technical Writing</a><br>
+  
 <b><h2>Education and Awards :mortar_board:</h2></b>
   <i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019<br>
   <i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016<br>
@@ -32,7 +33,7 @@ These samples include technical writing content published on knowledge base webs
 <a href="https://screencloud.com/learn">Please click here to view public instructional guides.</a><br>
 I have contributed to marketing guides, app integration documentation, and blogs for the ScreenCloud product. In addition, I authored an informational piece for ScreenCloud's website from a specialist perspective on <a href="https://screencloud.com/blog/the-ultimate-guide-to-digital-signage-playlists">operational management of digital playlists here.</a> Please note, I do not take copyright ownership of these product(s) and have contributed, managed, or created technical and educational guides for these public sources.<br>
 <br>
-<h2>Tech and Programming</h2>
+<h2>Programming</h2>
 <b>Responsive Web Coding :computer:</b><br>
 <a href="https://codepen.io/scibssss">Please click here to view my projects on Codepen.</a><br>
 I have worked with HTML and CSS programming since 2003 and am currently becoming Responsive Web Design Certified and am a student across web coding technology bootcamps specializing in Javascript, APIs, Python, and SQL curriculums. I enjoy learning to understand more about programming languages, best practices for clean code, and continuing to develop skills for educating or writing about code. I am pursuing continuing education and my career growth on understanding code to further progress my technical writing development and challenge myself to create content on increasingly complex coding or software related concepts.</p>
