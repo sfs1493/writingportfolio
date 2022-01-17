@@ -38,7 +38,7 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
 <details closed>
 <summary>Technical Writing Education</summary>
 <br>
-In Progreess
+  <a href="https://www.codeconquest.com/">* Code Conquest</a>
 </details>
 <details closed>
 <summary>Web Coding Education</summary>
