@@ -26,7 +26,7 @@ These samples include technical writing content published on knowledge base webs
 <br>
 <b>Learn Guides for Digital Signage :books:</b><br>
 <a href="https://screencloud.com/learn">Please click here to view public instructional guides.</a><br>
-I have contributed to marketing guides, app integration documentation, and blogs for the ScreenCloud product. In addition, I authored an informational piece for ScreenCloud's website from a specialist perspective on <a href="https://screencloud.com/blog/the-ultimate-guide-to-digital-signage-playlists">operational management of digital playlists here.</a> Please note, I do not take copyright ownership of these product(s) and have contributed, managed, or created technical and education guides for these public sources.<br>
+I have contributed to marketing guides, app integration documentation, and blogs for the ScreenCloud product. In addition, I authored an informational piece for ScreenCloud's website from a specialist perspective on <a href="https://screencloud.com/blog/the-ultimate-guide-to-digital-signage-playlists">operational management of digital playlists here.</a> Please note, I do not take copyright ownership of these product(s) and have contributed, managed, or created technical and educational guides for these public sources.<br>
 <br>
 <h2>Tech and Programming</h2>
 <b>Responsive Web Coding :computer:</b><br>
