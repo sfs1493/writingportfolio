@@ -33,10 +33,15 @@ I have contributed to marketing guides, app integration documentation, and blogs
 <a href="https://codepen.io/scibssss">Please click here to view my projects on Codepen.</a><br>
 I have worked with HTML and CSS programming since 2003 and am currently becoming Responsive Web Design Certified and am a student across web coding technology bootcamps specializing in Javascript, APIs, Python, and SQL curriculums. I enjoy learning to understand more about programming languages, best practices for clean code, and continuing to develop skills for educating or writing about code. I am pursuing continuing education and my career growth on understanding code to further progress my technical writing development and challenge myself to create content on increasingly complex coding or software related concepts.</p>
 <h2>Free Coding and Technical Writing Resources</h2>
-As an advocate and commitment to ongoing learning, I have compiled a list of technical writing resources as part of my portfolio. The resources available below are free and accessible to anyone on the open web who are interested in learning more about programming languages or improving on technical writing expertise. Click the arrow toggle next to each resource to view all links and guides available.<br>
+As an advocate and commitment to ongoing learning, I have compiled a list of technical writing resources as part of my portfolio. The resources available below are free and accessible to anyone on the open web who are interested in learning more about programming languages or improving on technical writing expertise.<br>
 <br>
 <details closed>
 <summary>Technical Writing Education</summary>
+<br>
+  
+</details>
+<details closed>
+<summary>Web Coding Education</summary>
 <br>
   <a href="https://www.codeconquest.com/">Code Conquest</a><br>
   <a href="https://www.codecademy.com/">Code Academy</a><br>
@@ -49,10 +54,4 @@ As an advocate and commitment to ongoing learning, I have compiled a list of tec
   <a href="https://ocw.mit.edu/index.htm">MIT Open CourseWare</a><br>
   <a href="https://www.w3schools.com/">W3Schools</a><br>
   <a href="https://dash.generalassemb.ly/">Dash</a><br>
-  
-</details>
-<details closed>
-<summary>Web Coding Education</summary>
-<br>
-In Progreess
 </details>
