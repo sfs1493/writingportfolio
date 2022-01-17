@@ -67,8 +67,8 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
     <a href="https://dash.generalassemb.ly/">Dash</a><br>
   <a href="https://github.com/coding-boot-camp">The Coding Bootcamp - GitHub</a><br>
  <a href="https://github.com/ossu/computer-science">Open Source Society University - GitHub</a><br>
- <a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">Git and GitHub Learning Resources</a>
-      <a href="https://www.python.org/about/gettingstarted/">Python for Beginners</a>
-      <a href="https://graphql.org/learn/">Introduction to Graph QL</a>
+ <a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">Git and GitHub Learning Resources</a><br>
+      <a href="https://www.python.org/about/gettingstarted/">Python for Beginners</a><br>
+      <a href="https://graphql.org/learn/">Introduction to Graph QL</a><br>
    <a href="https://www.w3schools.com/js/js_api_intro.asp">W3Schools - Intro to Web APIs</a></ul>
 </details>
