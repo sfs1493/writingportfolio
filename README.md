@@ -53,21 +53,21 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
 <details closed>
 <summary>Coding and Computer Science Education</summary>
     <ul class="coding-education">
-      <li><a href="https://www.codeconquest.com/">Code Conquest</a></li><br>
-      <li><a href="https://www.codecademy.com/">Code Academy</a></li><br>
-  <li><a href="https://www.theodinproject.com/">The Odin Project</a></li><br>
-  <li><a href="https://www.codewars.com/">Codewars</a></li><br>
-  <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li><br>
- <li><a href="https://codegym.cc/">CodeGym</a></li><br>
-  <li><a href="https://www.sololearn.com/home">Sololearn</a</li>><br>
-    <li><a href="https://hackr.io/">Hackr.io</a></li><br>
-    <li><a href="https://ocw.mit.edu/index.htm">MIT Open CourseWare</a></li><br>
-    <li><a href="https://www.w3schools.com/">W3Schools</a></li><br>
-    <li><a href="https://dash.generalassemb.ly/">Dash</a></li><br>
-    <li><a href="https://github.com/coding-boot-camp">The Coding Bootcamp - GitHub</a></li><br>
-  <li><a href="https://github.com/ossu/computer-science">Open Source Society University - GitHub</a></li><br>
-  <li><a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">Git and GitHub Learning Resources</li></a>
-      <li><a href="https://www.python.org/about/gettingstarted/">Python for Beginners</a></li>
-      <li><a href="https://graphql.org/learn/">Introduction to Graph QL</a></li>
-      <li><a href="https://www.w3schools.com/js/js_api_intro.asp">W3Schools - Intro to Web APIs</a></li>
+   <a href="https://www.codeconquest.com/">Code Conquest</a><br>
+   <a href="https://www.codecademy.com/">Code Academy</a><br>
+<a href="https://www.theodinproject.com/">The Odin Project</a><br>
+<a href="https://www.codewars.com/">Codewars</a><br>
+ <a href="https://www.freecodecamp.org/">freeCodeCamp</a><br>
+<a href="https://codegym.cc/">CodeGym</a><br>
+ <a href="https://www.sololearn.com/home">Sololearn</a<br>
+    <a href="https://hackr.io/">Hackr.io</a><br>
+   <a href="https://ocw.mit.edu/index.htm">MIT Open CourseWare</a><br>
+  <a href="https://www.w3schools.com/">W3Schools</a><br>
+    <a href="https://dash.generalassemb.ly/">Dash</a><br>
+  <a href="https://github.com/coding-boot-camp">The Coding Bootcamp - GitHub</a><br>
+ <a href="https://github.com/ossu/computer-science">Open Source Society University - GitHub</a><br>
+ <a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">Git and GitHub Learning Resources</a>
+      <a href="https://www.python.org/about/gettingstarted/">Python for Beginners</a>
+      <a href="https://graphql.org/learn/">Introduction to Graph QL</a>
+      <a href="https://www.w3schools.com/js/js_api_intro.asp">W3Schools - Intro to Web APIs</a>
 </details>
