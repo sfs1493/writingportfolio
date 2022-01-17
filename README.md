@@ -11,6 +11,7 @@
   <i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014<br>
   <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021<br>
   <br>
+<h2>Writing</h2>
 <b>Research Samples and Public Health Awards :microscope:</b><br>
 The following writing samples are for portfolio and educational purposes only. Please note, these are not for reuse or copyright.<br> 
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a> (December 2015)<br>
