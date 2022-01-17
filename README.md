@@ -6,10 +6,10 @@
 <p align="center">I am passionate for learning about diverse technologies and involving myself in new educational exeperiences. I have led or supported the development and management of knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght to extensive documentation, HTML/CSS coding, help center articles, styling guides, security practices, branding guidelines, resource education, and technical training.<br>
 <p>For additional content or requests to complete a customized writing sample, feel free to contact me.</p>
 <b>Table of contents:</b><br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/README.md#education-and-awards-mortar_board">Education and Awards</a><br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/README.md#technical-writing">Technical Writing</a><br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/README.md#programming">Programming</a><br>
-<a href="https://github.com/sfsexplorer/writingportfolio/blob/main/README.md#coding-and-writing-resources">Coding and Writing Resources</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio#education-and-awards-mortar_board">Education and Awards</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio#technical-writing-microscope">Technical Writing</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio#responsive-web-coding-computer">Responsive Web Coding</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio#programming-and-writing-resources-books">Programming and Writing Resources</a><br>
 <br>
 <b><h2>Education and Awards :mortar_board:</h2></b>
   <i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019<br>
