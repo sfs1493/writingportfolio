@@ -2,7 +2,7 @@
 <h2><p align="center">Hi, I am Santino. :it: :puerto_rico: :wave:</h2></p>
 <p align="center"><img alt="a portrait photo of Santino" src="https://media-exp1.licdn.com/dms/image/C4D03AQEWFPBuInmWtQ/profile-displayphoto-shrink_200_200/0/1609695744895?e=1648080000&v=beta&t=zGe3ZU6_qyPx1Pxrk0o4J1rm8v6XPlSnUoxeuMSC4S4"><br>
 <p align="center">I have written, coordination, co-authored, and managed diverse knowledge base websites or intranets across various industry positions for over ten years. My experience has diversified across process documentation, general resources, help center articles, complex services or integrations, styling guides, security, branding guidelines, education, and training.
-<i>For additional sample requests or customized writing challenges to complete, feel free to contact me or connect on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>.</p>
+<p>For additional sample requests or customized writing challenges to complete, feel free to contact me or connect on <a href="https://www.linkedin.com/in/santinoscibelli/">LinkedIn</a>.</p>
 <b>Research and Awards</b> :microscope:<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a><br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes - APA Format</a><br>
