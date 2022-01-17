@@ -10,7 +10,7 @@
   <i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016<br>
   <i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014<br>
   <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021 :hospital:<br>
-  <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</a> - NYS Department of Health, 2017<br>
+  <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</i></a> - NYS Department of Health, 2017<br>
   <br>
 <h2>Writing</h2>
 <b>Research and Proposal Samples :microscope:</b><br>
