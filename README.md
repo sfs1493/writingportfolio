@@ -13,7 +13,7 @@
   <br>
 <h2>Writing</h2>
 <b>Research Samples and Public Health Awards :microscope:</b><br>
-The following samples are for educational purposes only. Please note, these are intended for only this portfolio and not to reuse or copyright.<br> 
+The following samples are for educational purposes only. These are intended for only this portfolio and not to reuse or copyright.<br> 
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Educators Addressing Anxiety - APA Format</a> (December 2015)<br>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes - APA Format</a> (May 2019)<br>
 <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm">NYS Department of Health - Public Health Works Honor Roll</a> (2017)<br>
@@ -31,5 +31,5 @@ I have contributed to marketing guides, app integration documentation, and blogs
 <a href="https://codepen.io/scibssss">Please click here to view my projects on Codepen.</a><br>
 I have worked with HTML and CSS programming since 2003 and am currently becoming Responsive Web Design Certified and am a student across web coding technology bootcamps specializing in Javascript, APIs, Python, and SQL curriculums. I enjoy learning to understand more about programming languages, best practices for clean code, and continuing to develop skills for educating or writing about code. I am pursuing continuing education and my career growth on understanding code to further progress my technical writing development and challenge myself to create content on increasingly complex coding or software related concepts.</p>
 <br>
-<h2>Free Coding and Technical Writing Resources</h2><br>
+<h2>Free Coding and Technical Writing Resources</h2>
 As an advocate and commitment to ongoing learning, I have compiled a list of technical writing resources as part of my portfolio. The resources available below are free and accessible to anyone on the open web who are interested in learning more about programming languages or improving on technical writing expertise. 
