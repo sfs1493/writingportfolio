@@ -1,5 +1,5 @@
 # writingportfolio
-<h2><p align="center">Hi, I am Santino.</h2></p>
+<h2><p align="center">Hi, I'm Santino. :wave:</h2></p>
 <p align="center"><img alt="a portrait photo of Santino" src="https://media-exp1.licdn.com/dms/image/C4D03AQEWFPBuInmWtQ/profile-displayphoto-shrink_200_200/0/1609695744895?e=1648080000&v=beta&t=zGe3ZU6_qyPx1Pxrk0o4J1rm8v6XPlSnUoxeuMSC4S4"><br>
 M.A. Higher Education Administration (2019), B.A. Psychology (2016) - Stony Brook University<br>
 A.A. Liberal Arts (2014) - Suffolk County Community College<br>
