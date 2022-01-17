@@ -1,2 +1,2 @@
 # writingportfolio
-A portfolio of research, technical writing, and process content samples.
+A portfolio of my research, technical writing, and process content samples.
