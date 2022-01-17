@@ -36,8 +36,7 @@ These samples include technical writing content published on knowledge base webs
 <a href="https://screencloud.com/learn">Please click here to view public instructional guides.</a><br>
 I have contributed to marketing guides, app integration documentation, and blogs for the ScreenCloud product. In addition, I authored an informational piece for ScreenCloud's website from a specialist perspective on <a href="https://screencloud.com/blog/the-ultimate-guide-to-digital-signage-playlists">operational management of digital playlists here.</a> Please note, I do not take copyright ownership of these product(s) and have contributed, managed, or created technical and educational guides for these public sources.<br>
 <br>
-<h2>Programming :computer:</h2>
-<b>Responsive Web Coding</b><br>
+<h2>Responsive Web Coding :computer:</h2>
 <a href="https://codepen.io/scibssss">Please click here to view my projects on Codepen.</a><br>
 I have worked with HTML and CSS programming since 2003 and am currently becoming Responsive Web Design Certified and am a student across web coding technology bootcamps specializing in Javascript, APIs, Python, and SQL curriculums. I enjoy learning to understand more about programming languages, best practices for clean code, and continuing to develop skills for educating or writing about code. I am pursuing a goal to build a small portfolio of coding projects across programming languages and continue my education on understanding code. I strive to continously improve my technical writing development and lead challenging writing projects on increasingly complex coding, research, or software related concepts.</p>
 <h2>Coding and Writing Resources</h2>
