@@ -9,7 +9,7 @@
   <i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019<br>
   <i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016<br>
   <i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014<br>
-  <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021<br>
+  <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021 :hospital:<br>
   <br>
 <h2>Writing</h2>
 <b>Research Samples and Public Health Awards :microscope:</b><br>
