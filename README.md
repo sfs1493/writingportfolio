@@ -19,7 +19,7 @@
   <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</i></a> - NYS Department of Health, 2017<br>
   <br>
 <h2>Technical Writing :writing_hand::microscope:</h2>
-<b>Research and Proposal Samples :microscope:</b><br>
+<b>Research and Proposal Samples</b><br>
 The following samples are for educational purposes only. These are not for resuse, infringement, or copyright.<br> 
 <br>
   <ul class="contains-research-paper-samples">
