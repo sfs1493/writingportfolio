@@ -10,7 +10,7 @@
 <a href="https://github.com/sfsexplorer/writingportfolio#responsive-web-coding-computer">Responsive Web Coding</a><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#programming-and-writing-resources-books">Programming and Writing Resources</a><br>
 <br>
-<b><h2>Education and Honors :mortar_board:</h2></b><br>
+<b><h2>Education and Honors :mortar_board:</h2></b>
 <b>Degrees and Certifications</b>
   <ul class="education-certifications"><li><i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019</li>
   <li><i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016</li>
