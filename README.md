@@ -19,8 +19,8 @@
   <b>Awards</b>
   <ul class="honors">
   <li><a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</i></a> - NYS Department of Health, 2017</li>
-<li>B.A. Dean's List - Stony Brook University, 2015-2016</li>
-<li>Outstanding Service and Teamwork - King Kullen, 2012</li>
+  <li><i>Bachelor of Arts (B.A.) Dean's List</i> - Stony Brook University, 2015-2016</li>
+  <li><i>Outstanding Service and Teamwork</i> - King Kullen, 2012</li>
 </ul><br>
 <h2>Technical Writing Samples :microscope:</h2>
 <b>Research and Proposals</b><br>
