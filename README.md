@@ -22,7 +22,6 @@
 <li>B.A. Dean's List - Stony Brook University, 2015-2016</li>
 <li>Outstanding Service and Teamwork - King Kullen, 2012</li>
 </ul>
-  <br>
 <h2>Technical Writing :microscope:</h2>
 <b>Research and Proposal Samples</b><br>
 The following samples are for educational purposes only. These are not for resuse, infringement, or copyright:<br> 
