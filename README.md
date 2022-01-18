@@ -23,9 +23,9 @@ The following samples are for educational purposes only. These are not for resus
 <br>
   <ul class="contains-research-paper-samples">
   <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Program%20Assessment%20Plan%20Sample.pdf">Program Assessment Sample</a></li>
+<li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Operations%20Sample%20Roadmap.pdf">Operations Roadmap Sample</a></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Petition%20for%20Legal%20Dispute%20Sample.pdf">Petition for Legal Dispute Sample</a></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Security%20Authentication%20Policy%20Sample.pdf">Codebase Security Policy Sample</li></a>
-<li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Operations%20Sample%20Roadmap.pdf">Operations Roadmap Sample</a></li>
 <li>
 <a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Efficacy%20of%20Collegiate%20Programs%20For%20Pioneering%20Student%20Recovery%20Outcomes.pdf">Research Paper: Efficacy of Collegiate Programs For Pioneering Student Recovery Outcomes</a><br></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Educators%20Addressing%20Anxiety.pdf">Research Paper: Educators Addressing Anxiety</a><br></li>
