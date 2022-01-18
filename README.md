@@ -48,7 +48,7 @@ I have contributed to marketing guides, app integration documentation, and blogs
 <a href="https://codepen.io/scibssss">Please click here to view my projects on Codepen.</a> (Moving to GitHub Pages*)<br>
 I have worked with HTML and CSS programming since 2003. I am currently becoming Responsive Web Design Certified and am a remote student across web coding technology bootcamps specializing in Javascript, APIs, Python, and SQL curriculums. I enjoy learning to understand more about programming languages, best practices for clean code, and continuing to develop skills for educating or writing about responsive web topics. I am pursuing a goal to build a small portfolio of coding projects across programming languages and continue education toward web coding proficiency. I strive to continously improve my technical writing development and take on new challenges in writing projects on complex code, integrations, research, or software related concepts.</p>
 <h2>Programming and Writing Resources :books:</h2>
-As an advocate for accessible and equal learning opportunities, I have compiled a list of technical writing resources as part of my portfolio. The resources available below are free and accessible to anyone with access to the open web who are interested in learning more about programming languages or improving on technical writing skills.<br>
+As an advocate for accessible and equal learning opportunities, I have compiled a list of technical writing resources as part of my portfolio. The resources available below are free and accessible to anyone with access to the open web who are interested in learning more about programming languages or improving technical writing skills.<br>
 <br>
 <details closed>
 <summary>Technical Writing Education</summary>
