@@ -37,7 +37,7 @@ The following samples are for educational purposes only. These are not for resus
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20University%20College%20London%20Emergency%20Plan%20Critique%20(Case%20Study).pdf">Crisis Management Case Study: University College London (UCL) Major Incident Plan Critique</a><br></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Toyota%20Automotive%20Business%20Case%20Study.pdf">Business Analysis Case Study: Toyota Automotive</a><br></li>
 <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Leadership%20Case%20Study_%20Virginia%20Tech%20Crisis.pdf">Higher Education Leadership Case Study: Virginia Tech Crisis</a></li></ul><br>
-<b>Technical Documentation Samples</b> - <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
+<b>Technical Support Doucumentation Samples</b> - <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
 These samples include technical writing content published on knowledge base websites and are used for educational purposes with public audiences utilizing digital signage software. Please note, I do not take copyright ownership of these product(s) and have contributed, managed, or created technical and educational guides for these public sources.<br>
 <br>
 <b>Marketing Guides for Digital Signage</b> - <a href="https://screencloud.com/learn">Please click here to view marketing guides.</a><br>
