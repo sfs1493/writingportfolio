@@ -6,7 +6,7 @@
 <p align="center">I am passionate for learning about diverse technologies and involving myself in new educational experiences. I have led, supported, and managed knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght to extensive documentation, HTML/CSS coding, support articles, styling guides, security practices, branding guidelines, resource education, and technical training. For additional content samples or requests to complete a customized writing challenge, feel free to contact me.</p><br>
 <b>Table of contents:</b><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#education-and-honors-mortar_board">Education and Honors</a><br>
-<a href="https://github.com/sfsexplorer/writingportfolio#technical-writing-microscope">Technical Writing</a><br>
+<a href="https://github.com/sfsexplorer/writingportfolio#technical-writing-samples-microscope">Technical Writing</a><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#responsive-web-coding-computer">Responsive Web Coding</a><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#programming-and-writing-resources-books">Programming and Writing Resources</a><br>
 <br>
