@@ -3,7 +3,7 @@
 <p align="center"><img alt="a portrait photo of Santino" src="https://media-exp1.licdn.com/dms/image/C4D03AQEWFPBuInmWtQ/profile-displayphoto-shrink_200_200/0/1609695744895?e=1648080000&v=beta&t=zGe3ZU6_qyPx1Pxrk0o4J1rm8v6XPlSnUoxeuMSC4S4"><br>
   <b>Email:</b> <a href="mailto:santinoscibelli@gmail.com">santinoscibelli@gmail.com</a> :e-mail:<br>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santinoscibelli/">in/santinoscibelli</a> :wave:<br>
-<p align="center">I am passionate for learning about diverse technologies and involving myself in new educational exeperiences. I have led or supported the development and management of knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght to extensive documentation, HTML/CSS coding, help center articles, styling guides, security practices, branding guidelines, resource education, and technical training. For additional content samples or requests to complete a customized writing challenge, feel free to contact me.</p><br>
+<p align="center">I am passionate for learning about diverse technologies and involving myself in new educational experiences. I have both led or supported the development and management of knowledge base websites or intranet documentation across various industry positions for over ten years. My experience has provided me with inisght to extensive documentation, HTML/CSS coding, help center articles, styling guides, security practices, branding guidelines, resource education, and technical training. For additional content samples or requests to complete a customized writing challenge, feel free to contact me.</p><br>
 <b>Table of contents:</b><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#education-and-awards-mortar_board">Education and Awards</a><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#technical-writing-microscope">Technical Writing</a><br>
@@ -11,11 +11,11 @@
 <a href="https://github.com/sfsexplorer/writingportfolio#programming-and-writing-resources-books">Programming and Writing Resources</a><br>
 <br>
 <b><h2>Education and Awards :mortar_board:</h2></b>
-  <i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019<br>
-  <i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016<br>
-  <i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014<br>
-  <i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021 :hospital:<br>
-  <a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</i></a> - NYS Department of Health, 2017<br>
+  <ul class="education"><li><i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019</li>
+  <li><i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016</li>
+  <li><i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014</li>
+  <li><i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021 :hospital:</li>
+  <li><a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</i></a> - NYS Department of Health, 2017</li></ul>
   <br>
 <h2>Technical Writing :microscope:</h2>
 <b>Research and Proposal Samples</b><br>
