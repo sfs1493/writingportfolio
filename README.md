@@ -35,7 +35,7 @@ The following samples are for educational purposes only. These are not for resus
 <b>Technical Documentation Samples</b> - <a href="https://drive.google.com/drive/folders/1PgirRfe0MvKAPAT8eshMxTIl7nQKuQAe">Please click here to view my Google Drive folder.</a><br>
 These samples include technical writing content published on knowledge base websites and are used for educational purposes with public audiences utilizing digital signage software. Please note, I do not take copyright ownership of these product(s) and have contributed, managed, or created technical and educational guides for these public sources.<br>
 <br>
-<b>Marketing Guides for Digital Signage</b> - <a href="https://screencloud.com/learn">Please click here to view public instructional guides.</a><br>
+<b>Marketing Guides for Digital Signage</b> - <a href="https://screencloud.com/learn">Please click here to view marketing guides.</a><br>
 I have contributed to marketing guides, app integration documentation, and blogs for the ScreenCloud product. In addition, I authored an informational piece for ScreenCloud's website from a specialist perspective on <a href="https://screencloud.com/blog/the-ultimate-guide-to-digital-signage-playlists">operational management of digital playlists here.</a> Please note, I do not take copyright ownership of these product(s) and have contributed, managed, or created technical and educational guides for these public sources.<br>
 <br>
 <h2>Responsive Web Coding :computer:</h2>
