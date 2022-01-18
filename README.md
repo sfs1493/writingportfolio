@@ -76,3 +76,6 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
       <a href="https://graphql.org/learn/">Introduction to Graph QL</a><br>
    <a href="https://www.w3schools.com/js/js_api_intro.asp">W3Schools - Intro to Web APIs</a></ul>
 </details>
+  <body id="top">
+
+<a href="#top" onclick="scrollToTop();return false">Back to Top &uarr;</a>
