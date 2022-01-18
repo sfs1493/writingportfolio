@@ -10,10 +10,14 @@
 <a href="https://github.com/sfsexplorer/writingportfolio#responsive-web-coding-computer">Responsive Web Coding</a><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#programming-and-writing-resources-books">Programming and Writing Resources</a><br>
 <br>
-<b><h2>Education and Awards :mortar_board:</h2></b>
+<b><h2>Education and Awards :mortar_board:</h2></b><br>
+<br>
+<b>Degrees and Certifications</b>
   <ul class="education"><li><i>Master of Arts (M.A.) Higher Education Administration</i> - Stony Brook University, 2019</li>
   <li><i>Bachelor of Arts (B.A.) Psychology</i> - Stony Brook University, 2016</li>
-  <li><i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014</li>
+  <li><i>Associates of Arts (A.A.) Liberal Arts and Sciences</i> - Suffolk County Community College, 2014</li></ul><br>
+  <b>Awards and Certifications</b><br>
+  <ul class="awards-certifications">
   <li><i>Heartsaver CPR/AED/First Aid Certified</i> - American Heart Association, 2021 :hospital:</li>
   <li><a href="https://www.health.ny.gov/prevention/public_health_works/honor_roll/2017/zika_action_plan.htm"><i>Public Health Works Honor Roll</i></a> - NYS Department of Health, 2017</li></ul>
   <br>
