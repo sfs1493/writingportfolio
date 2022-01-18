@@ -46,6 +46,7 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
 <br>
 <details closed>
 <summary>Technical Writing Education</summary>
+<br>
     <ul class="technical-writing-education">
 <a href="https://en.wikiversity.org/wiki/Technical_writing/Courses#An_Introduction_to_Technical_Writing">Wikiversity - An Introduction to Technical Writing</a><br>
 <a href="https://medium.com/technical-writing-is-easy">Medium - Technical Writing is Easy</a><br>
@@ -56,6 +57,7 @@ As an advocate for accessible and equal learning opportunities, I have compiled 
 </details>
 <details closed>
 <summary>Coding and Computer Science Education</summary>
+  <br>
     <ul class="coding-education">
    <a href="https://www.codeconquest.com/">Code Conquest</a><br>
    <a href="https://www.codecademy.com/">Code Academy</a><br>
