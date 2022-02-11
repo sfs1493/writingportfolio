@@ -1,7 +1,7 @@
 # writingportfolio
 <h2><p align="center">Hi, I'm Santino. :tea::blue_book:</h2></p>
- <center> <b>Email:</b> <a href="mailto:santinoscibelli@gmail.com">santinoscibelli@gmail.com</a> :e-mail:<br>
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santinoscibelli/">in/santinoscibelli</a> :wave:<br></center>
+ <align="center"> <b>Email:</b> <a href="mailto:santinoscibelli@gmail.com">santinoscibelli@gmail.com</a> :e-mail:<br>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/santinoscibelli/">in/santinoscibelli</a> :wave:<br></align><br>
 <p align="center">I am passionate for learning about diverse technologies and new educational experiences. I have led, supported, and managed knowledge base websites or intranet systems across various industry positions for over ten years. My experience has provided me with inisght to extensive documentation, HTML/CSS coding, support articles, styling guides, security practices, branding guidelines, resource education, and technical training. For additional content samples or requests to complete a customized writing challenge, feel free to contact me.</p><br>
 <b>Table of contents:</b><br>
 <a href="https://github.com/sfsexplorer/writingportfolio#education-and-honors-mortar_board">Education and Honors</a><br>
