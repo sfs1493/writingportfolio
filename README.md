@@ -24,7 +24,7 @@
 </ul><br>
 <h2>Technical Writing Samples :microscope:</h2>
 <b>Research and Proposals</b><br>
-The following samples are for educational purposes only. These are not for resuse, infringement, or copyright:<br> 
+The following samples are for educational and personal portfolio purposes only. These are not for resuse, infringement, plagiarism, or additional copyright:<br> 
 <br>
   <ul class="contains-research-paper-samples">
   <li><a href="https://github.com/sfsexplorer/writingportfolio/blob/main/Santino%20Scibelli%20-%20Program%20Assessment%20Plan%20Sample.pdf">Program Assessment Sample</a></li>
